@@ -1,0 +1,21 @@
+# elements.yml
+
+# --- Main Navigation Selector ---
+land_link: 'a.nav-link[href="/land/index.php"]'
+
+# --- Search Results (List) Page Selectors (Simplified) ---
+property_card: 'article.listing-item'
+property_price: '.listing-price'
+property_title: 'h4.listing-title'
+property_link: 'a.listing-header'
+location: 'span.location'
+urgent_label: 'div.urgent-label'
+
+# --- Pagination and Detail Page Selectors (unchanged) ---
+pagination_next: 'a[rel="next"]'
+detail_address: 'h1.item-title'
+detail_price: 'div.item-price'
+detail_seller_name: 'div.profile-name'
+detail_property_type: '//th[text()="Property Type"]/following-sibling::td'
+detail_land_size: '//th[text()="Land Size"]/following-sibling::td'
+detail_description: '#item-description'
