@@ -20,12 +20,6 @@ This project demonstrates skills in web automation, data extraction, handling dy
   - `excel_writer.py`: A dedicated module for handling all Excel file operations.
   - `config.py`: A simple configuration file to toggle settings like headless mode.
 
-## Final Output
-
-The scraper produces a detailed Excel file with two sheets, `summary` and `detail`, compiling all the extracted data.
-
-![Project Output Screenshot](output_screenshot.png)
-*(Replace `output_screenshot.png` with the actual path to your screenshot file)*
 
 ## Technologies Used
 
